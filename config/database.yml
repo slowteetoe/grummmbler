@@ -50,11 +50,3 @@ test:
   pool: 5
   username: grummmbler
   password:
-
-production:
-  adapter: postgresql
-  encoding: unicode
-  database: grummmbler_production
-  pool: 5
-  username: grummmbler
-  password:
